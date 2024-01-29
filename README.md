@@ -4,9 +4,6 @@
 
 The Mental Fitness Tracker is a web application of AI development as part of my IBM  Artificial Intelligence internship project. The primary objective of this project is to help users monitor and improve their mental well-being.
 
-You can also explore Mental Fitness Tracker via video 
-[Mental-Fitness-Tracker](https://drive.google.com/file/d/1WqolTo8TOKeo2q4eTHKfjX6DGwD51egd/view?usp=drive_link)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
